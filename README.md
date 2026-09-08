@@ -1,2 +1,15 @@
-# AI-Based-Road-Pothole-Detection
-AI-Based Road Pothole Detection: that detects road potholes from images, identifies their GPS location and severity, finds the responsible road authority, and automatically generates complaints. Users can track complaint status, while officers can manage, prioritize, and update reported road issues.
+#AI-Based-Road-Pothole-Detection
+
+AI-Based Road Pothole Detection and Automated Complaint Management System.
+
+PotholeGuard detects potholes using AI, identifies their location and severity,
+finds the responsible authority, and generates a complaint for road maintenance.
+
+## Technologies
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- AI/Computer Vision
